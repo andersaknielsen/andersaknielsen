@@ -1,6 +1,6 @@
 # Hi!
 I'm @andersaknielsen  
-I work in the [Impact department](https://impact.novonordiskfonden.dk/) at the [Novo Nordisk Foundation](http://novonordiskfonden.dk/en/) (NNF)  
+I work in the [Impact department](https://novonordiskfonden.dk/en/impact/) at the [Novo Nordisk Foundation](http://novonordiskfonden.dk/en/) (NNF)  
 I work with:
 * SQL (TSQL and Google BigQuery "standard SQL")
 * Python
