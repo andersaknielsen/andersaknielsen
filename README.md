@@ -13,4 +13,4 @@ I work with:
 
 ### Links
 * [My LinkedIn profile](http://linkedin.com/in/andersaknielsen)
-* [My work](https://novonordiskfonden.dk/en/om-fonden/organisation/?area=impact)
+* [My work](https://novonordiskfonden.dk/en/impact/)
